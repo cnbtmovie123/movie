@@ -3068,6 +3068,13 @@
 
 	}
 
+.icons span {
+    font-size: 0.8em;
+    position: relative;
+    top: -4px;
+    left: -4px;
+}
+
 /* XSmall */
 
 	@media screen and (max-width: 480px) {
